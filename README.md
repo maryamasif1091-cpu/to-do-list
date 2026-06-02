@@ -26,10 +26,13 @@ A modern and responsive To-Do List web application built using HTML, CSS, and Ja
 ## 📂 Project Structure
 
 to-do-list/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
-└── README.md
+
 
 ## ⚙️ How to Run
 
