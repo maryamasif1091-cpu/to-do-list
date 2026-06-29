@@ -1,4 +1,4 @@
-#  To-Do List Web Application
+#  To-Do List 
 
 A modern and responsive To-Do List web application built using HTML, CSS, and JavaScript. It allows users to manage daily tasks efficiently with features like adding, editing, deleting, completing, and filtering tasks. The application also uses local storage to save tasks so they remain even after refreshing the page.
 
@@ -14,7 +14,7 @@ A modern and responsive To-Do List web application built using HTML, CSS, and Ja
 - Smooth animations and modern UI design  
 - Fully responsive layout  
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
@@ -23,7 +23,7 @@ A modern and responsive To-Do List web application built using HTML, CSS, and Ja
 - Font Awesome Icons  
 - Google Fonts (Inter)  
 
-## 📂 Project Structure
+##  Project Structure
 
 to-do-list/
 
@@ -34,7 +34,7 @@ to-do-list/
 ├── script.js
 
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone or download the project  
 2. Open the folder  
